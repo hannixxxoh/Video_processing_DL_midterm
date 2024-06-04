@@ -1,0 +1,8 @@
+python -m clip_score "/root/flatten/frames/raft/raft_A car drifts on a snowy road_None_25_25_2" "/root/flatten/frames/raft/raft_A car drifts on a snowy road_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_A cat, Van Gogh style_None_25_25_2" "/root/flatten/frames/raft/raft_A cat, Van Gogh style_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_A detailed woolen toy cat_None_25_25_2" "/root/flatten/frames/raft/raft_A detailed woolen toy cat_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_A metal sculpture_None_25_25_2" "/root/flatten/frames/raft/raft_A metal sculpture_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_Cartoon Style_None_25_25_2" "/root/flatten/frames/raft/raft_Cartoon Style_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_Pointillism painting, detailed_None_25_25_2" "/root/flatten/frames/raft/raft_Pointillism painting, detailed_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_Several goldfish swim in a pond_None_25_25_2" "/root/flatten/frames/raft/raft_Several goldfish swim in a pond_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt
+python -m clip_score "/root/flatten/frames/raft/raft_Wooden trucks drive on a racetrack_None_25_25_2" "/root/flatten/frames/raft/raft_Wooden trucks drive on a racetrack_None_25_25_2_copy" --real_flag img --fake_flag img >> raft.txt

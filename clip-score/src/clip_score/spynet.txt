@@ -1,0 +1,40 @@
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_A car drifts on a snowy road_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_A car drifts on a snowy road_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  93.36963653564453
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_A cat, Van Gogh style_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_A cat, Van Gogh style_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  98.13525390625
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_A detailed woolen toy cat_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_A detailed woolen toy cat_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  96.94612884521484
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_A metal sculpture_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_A metal sculpture_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  95.21996307373047
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_Cartoon Style_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_Cartoon Style_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  99.07540130615234
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_Pointillism painting, detailed_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_Pointillism painting, detailed_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  98.22055053710938
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_Several goldfish swim in a pond_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_Several goldfish swim in a pond_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  98.36433410644531
+Loading CLIP model: ViT-B/32
+real:  /root/flatten/frames/spynet/spynet_Wooden trucks drive on a racetrack_None_25_25_2
+fake: /root/flatten/frames/spynet/spynet_Wooden trucks drive on a racetrack_None_25_25_2_copy
+Calculating CLIP Score:
+CLIP Score:  94.66879272460938
