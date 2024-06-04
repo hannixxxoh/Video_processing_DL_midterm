@@ -1,8 +1,11 @@
 flatten/outputs
 flatten/frames
 flatten/data
+flatten/.git
 
-data
+clip-score/.git
+
+pytorch-sypnet/.git
 
 *.png
 *.jpg
