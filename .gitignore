@@ -1,0 +1,9 @@
+flatten/outputs
+flatten/frames
+flatten/data
+
+data
+
+*.png
+*.jpg
+*.mp4
